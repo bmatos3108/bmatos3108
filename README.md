@@ -1,6 +1,6 @@
  👋 Hi, I’m @SofiaHerrmann!
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="450" />
+  <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="850" />
 </p>
 
 

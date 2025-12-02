@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="180" />
+ 👋 Hi, I’m @SofiaHerrmann!
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="450" />
 </p>
 
-
-- 👋 Hi, I’m @SofiaHerrmann!
 
 
 

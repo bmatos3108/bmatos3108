@@ -18,6 +18,7 @@
 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient in:
+
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=for-the-badge&logo=mysql&logoColor=white)

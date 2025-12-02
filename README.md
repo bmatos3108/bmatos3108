@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @SofiaHerrmann
-- <p align="center">
-  <img src="https://raw.githubusercontent.com/bmatos3108/bmatos3108/main/assets/Untitled-ezgif.com-video-to-gif-converter.gif" width="180" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="180" />
 </p>
+
+
+- 👋 Hi, I’m @SofiaHerrmann!
+
+
 
 
 <!---

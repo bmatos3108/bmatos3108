@@ -20,18 +20,18 @@ Deliverables: 4 professional visualizations + comprehensive performance report
 More data projects coming soon!
 🛠️ Technical Skills
 Data Analysis & Visualization
-https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/-Pandas-lightblue?style=flat-square&logo=pandas&logoColor=black
-https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white
-https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white
-https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white
-https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-lightblue?style=flat-square&logo=pandas&logoColor=black)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Tableau](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
 Web Development
-https://img.shields.io/badge/Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white
-https://img.shields.io/badge/Ruby_on_Rails-%23CC0000?style=flat-square&logo=rubyonrails&logoColor=white
-https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB
+[![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/-Rails-red?style=flat-square&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 🌱 Currently Learning
 
 Advanced SQL queries and database optimization

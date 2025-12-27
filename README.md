@@ -3,18 +3,10 @@
   <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="850" />
 </p>
 
-🚀 Full-Stack Developer | React | Ruby on Rails |  I'm a passionate Back-End Developer and Designer based in Hamburg, Germany. As a graduate of the Le Wagon coding bootcamp, I thrive on data modeling and apply my analytical skills using also my imagination and bring ideas to life through code. I'm currently focused on starting my career and eager to learn new technologies.
-
-👨‍💻 About Me
-
-🎓 Graduated from Le Wagon's intensive Full-Stack Web Development bootcamp, Did also SQL expert course , API update 2026 and Java script zero to hero on UDEMY.
-
-💡 Currently seeking Back-end and UI/UX opportunities in React, Ruby on Rails.
-
-🌱I'm passionate about learning new technologies, improving my engineering skills, and building clean, scalable solutions.
-
-🎯 My goal is to create projects that solve real-world business problems and showcase my ability to deliver impact
-
+🎓 Graduated from Le Wagon’s Full-Stack Web Development Bootcamp. Also completed SQL Expert course, API updates 2026, and JavaScript Zero to Hero on Udemy.
+💡 Focused on Back-End Development, Data Analysis, and UI/UX with React and Ruby on Rails.
+🌱 Passionate about learning new technologies, improving engineering skills, and delivering clean, scalable solutions.
+🎯 Goal: Build projects that solve real-world problems and showcase the impact of combining data analytics with robust back-end systems.
 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient in:

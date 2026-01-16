@@ -2,14 +2,16 @@
   <p align="center">
   <img src="https://github.com/user-attachments/assets/14258cbd-ec42-4feb-9886-25d8ec4a2f23" width="850" />
 </p>
+**Junior Data Analyst | SQL, Python, Tableau | Turning Data into Business Decisions**
 
 🎯 About Me
-📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights
-💼 Full-Stack Development background with expertise in Python, SQL, and data visualization
-🎓 Le Wagon Full-Stack Web Development Graduate | SQL Expert | JavaScript Developer
+📊 Build SQL-driven analyses to answer critical business questions
+- Create interactive dashboards (Tableau, Python) for executive reporting
+- Clean, transform, and model data for forecasting and optimization
+- Automate data workflows with Python (Pandas, NumPy, Matplotlib)
+🎓 Le Wagon Full-Stack Web Development Graduate |UDEMY| Python for Data Science and machine learning
 🌍 Based in Hamburg, Germany
 🔍 Actively seeking Junior Data Analyst opportunities
-📊 Featured Data Analysis Projects
 Stock Portfolio Analysis
 Python-based financial analysis comparing 5 major tech stocks (AAPL, MSFT, GOOGL, AMZN, TSLA)
 
